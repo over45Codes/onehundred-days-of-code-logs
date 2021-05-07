@@ -490,7 +490,7 @@ Today's Progress:
 
 Up next: Finish Applied Accessibility @freeCodeCamp
 
-**Link to work**: New README.md log for #100DaysofCode Journey: new link ()
+**Link to work**: New README.md log for #100DaysofCode Journey: new link (https://github.com/graciicodes/100-Days-Of-Code-Log)
 
 ## Author
 
