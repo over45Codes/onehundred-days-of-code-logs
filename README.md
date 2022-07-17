@@ -559,7 +559,7 @@ CS50's Introduction to Computer Science Course
 4. Will create a new log my README.md log of #100DaysofCode and moved to the repository.
 5. Created a New Repo for THE ODIN PROJECT Foundations Course to log my project
 6. Post on Instagram account post #day1 
-7. Tweet #day1 on my Twitter 
+7. Tweet #day2 on my Twitter 
 8. Post on Facebook #day1
 9. Add Progress of #100DaysofCode on Notion
 10. Will create new Anki Notes 
@@ -603,8 +603,8 @@ CS50's Introduction to Computer Science Course
 4. Will create a new log my README.md log of #100DaysofCode and moved to the repository.
 5. Created a New Repo for THE ODIN PROJECT Foundations Course to log my project
 6. Post on Instagram account post #day1 
-7. Tweet #day1 on my Twitter 
-8. Post on Facebook #day1
+7. Tweet #day3 on my Twitter 
+8. Post on Facebook #day3
 9. Add Progress of #100DaysofCode on Notion
 10. Will create new Anki Notes 
 
@@ -647,8 +647,8 @@ CS50's Introduction to Computer Science Course
 4. Will create a new log my README.md log of #100DaysofCode and moved to the repository.
 5. Created a New Repo for THE ODIN PROJECT Foundations Course to log my project
 6. Post on Instagram account post #day1 
-7. Tweet #day1 on my Twitter 
-8. Post on Facebook #day1
+7. Tweet #day4 on my Twitter 
+8. Post on Facebook #day4
 9. Add Progress of #100DaysofCode on Notion
 10. Will create new Anki Notes 
 
