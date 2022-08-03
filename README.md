@@ -905,6 +905,7 @@ Today's Progress:
 
 Up next: 
 
+- CSS - CHAPTER 3
 - CS50's Introduction to Computer Science Course
 - UDEMY: The Web Developer Bootcamp 2022 Course 
 
